@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Antrix Yadav! 👋
 
-A passionate Software and Backend Engineer focused on building scalable, high-performance web services, robust database architectures, and clean backend systems.
+A passionate Backend Engineer focused on building scalable, high-performance web services, robust database architectures, and clean backend systems.
 
 ---
 
@@ -8,18 +8,16 @@ A passionate Software and Backend Engineer focused on building scalable, high-pe
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, C++, C, SQL, Python |
+| **Languages** | Java, C++, C, SQL |
 | **Backend & Frameworks** | Spring Boot, Node.js, Express, REST APIs |
-| **Databases** | MySQL, PostgreSQL, Redis, MongoDB |
-| **Tools & DevOps** | Git, GitHub, Docker, Linux, Postman |
+| **Databases** | MySQL, PostgreSQL |
 
 ---
 
 ### 🚀 What I'm Up To
 
-* 🔭 **Currently working on:** Distributed systems, scalable microservices, and backend APIs.
-* 🌱 **Learning:** Advanced system design, microservices architecture, and cloud deployment.
-* 👯 **Looking to collaborate on:** Open-source backend tooling, API frameworks, and database engines.
-* 💬 **Ask me about:** Java internals, relational database design, and RESTful API development.
-
+* 🔭 **Currently working on:** C/C++ data structures, Java OOP projects, and relational SQL database applications.
+* 🌱 **Learning:** Backend development fundamentals, Object-Oriented Programming (OOP), and core Computer Science concepts.
+* 💬 **Ask me about:** Java constructors, C programming lab exercises, and SQL queries.
+  
 ---
